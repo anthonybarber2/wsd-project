@@ -14,5 +14,9 @@ h1,h2,h3{
  p{
  margin:0 20px;
  }
- 
+ ul{
+ border: 1px dashed #fff;
+ list-style-type:none;
+ }
+
  
