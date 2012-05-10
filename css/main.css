@@ -19,7 +19,7 @@ h1,h2,h3{
  list-style-type:none;
  width: 918px;
  margin: 0 auto
- 
+ overflow: hidden;
  }
  
 li{
