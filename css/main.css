@@ -20,11 +20,11 @@ h1,h2,h3{
  width: 918px;
  margin: 0 auto
  overflow: hidden;
- padding: 10px;
  }
  
 li{
  float: left;
+ margin-left: 20px;
 }
 
  
