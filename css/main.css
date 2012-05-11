@@ -4,7 +4,7 @@ text-shadow:1px 1px 2px #fff;
 body{
 margin: 0;
 padding: 0;
-background-image:url("../images/gradient2.jpg");
+background-image:url("../images/bg.png");
 }
 #wrapper{
 width: 960px;
