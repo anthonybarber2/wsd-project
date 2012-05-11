@@ -31,8 +31,19 @@ li{
 float:left;
 margin-left: 40px;
 }
+
+a:link{
+color: #fff;
+}
+
+a:visited{
+color: #efo8cc;
+} 
+
+a:hover{
+color: #5e8466;
+}
  
-
-
-
- 
+ a:active{
+color: #f90522;
+}
